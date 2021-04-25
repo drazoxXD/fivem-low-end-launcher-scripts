@@ -16,3 +16,14 @@ Show Some Love to him <3
 My info:
 Discord - Drazox#7869
 Github - https://github.com/drazoxXD
+
+
+2.0 2021 april 25 21:30
+-fixes starting scripts
+-fixes fps
+-fixes task kills
+
+
+1.0
+-FIXES LAGS AND GETS SOME FPS
+
