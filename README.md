@@ -22,6 +22,7 @@ Github - https://github.com/drazoxXD
 -fixes starting scripts
 -fixes fps
 -fixes task kills
+WARNING THIS UPDATE CAN CAUSE SOME SYSTEM BSOD USE THIS AT YOUR OWN RISK!
 
 
 1.0
