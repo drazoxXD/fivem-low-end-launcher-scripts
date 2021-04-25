@@ -17,13 +17,12 @@ My info:
 Discord - Drazox#7869
 Github - https://github.com/drazoxXD
 
-
-2.0 2021 april 25 21:30 
+2.0
 -fixes starting scripts 
 -fixes fps 
 -fixes task kills 
+-killing some system things will be put to idle mode!
 WARNING THIS UPDATE CAN CAUSE SOME SYSTEM BSOD USE THIS AT YOUR OWN RISK!
-
 
 1.0
 -FIXES LAGS AND GETS SOME FPS
