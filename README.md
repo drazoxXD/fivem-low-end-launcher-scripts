@@ -18,10 +18,10 @@ Discord - Drazox#7869
 Github - https://github.com/drazoxXD
 
 
-2.0 2021 april 25 21:30
--fixes starting scripts
--fixes fps
--fixes task kills
+2.0 2021 april 25 21:30 
+-fixes starting scripts 
+-fixes fps 
+-fixes task kills 
 WARNING THIS UPDATE CAN CAUSE SOME SYSTEM BSOD USE THIS AT YOUR OWN RISK!
 
 
