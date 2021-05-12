@@ -17,6 +17,23 @@ My info:
 Discord - Drazox#7869
 Github - https://github.com/drazoxXD
 
+DEV UPDATE
+You can get banned as i heard!
+But if you have the 1.0 you can use that safely!
+Some server side anticheat will ban you!
+But i am working on a better version!
+The version is being leaked so you wanna search for it! ;)
+BTW the version will contain some fivem fixes and old updates wich was on very old version!
+But these will be the best update yo ever played!
+On an intel (almost every)
+no update:
+20-30fps
+
+on the new update:
+40-60fps
+
+so you can imagine how it will peform on an nvidia card!
+
 2.0
 -fixes starting scripts 
 -fixes fps 
