@@ -17,6 +17,29 @@ My info:
 Discord - Drazox#7869
 Github - https://github.com/drazoxXD
 
+dev upddate 2.0
+Some things kinde fucked at this point i heard that 20 players was banned.
+And i think i know what is the problem.
+And i think its the rundll32.exe what i actully put to idle mode.
+But dont worry, i will post another leak somewhere!
+Keep  search for the leak i postedit on 15 discord servers.
+BTW the new 3.0 going to have the best launcher ever!
+Its going to be made with c# and a little bit of .bat files is going with that!
+But its going to be easier to have profiles for difrente computer.
+fps test:
+nvidia mx110 2gb
+2.0
+60 fps
+
+3.0
+117fps butit can lagg sometimes to 60fps but its not big of a deal!
+
+
+
+
+
+5.
+
 DEV UPDATE
 You can get banned as i heard!
 But if you have the 1.0 you can use that safely!
